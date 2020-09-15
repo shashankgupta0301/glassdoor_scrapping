@@ -1,0 +1,2284 @@
+[
+    [
+        {
+            "meanPay": "4,61,905/yr",
+            "jobTitle": "Software Engineer",
+            "company": "HCL Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "5,45,907/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Altran Americas",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "5,45,907/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Accenture",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "5,20,798/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Tata Consultancy Services",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "4,50,780/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Tech Mahindra",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "10,70,424/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Samsung Electronics",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "4,97,969/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Infogain",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "5,08,096/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Newgen Software",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "6,01,037/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Nucleus Software Exports",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "8,94,492/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Adobe",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "4,78,200/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Wipro",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "5,49,142/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Sopra Steria",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "30,604/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "HCL Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "5,10,754/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Birlasoft",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "5,58,199/yr",
+            "jobTitle": "Software Engineer",
+            "company": "GlobalLogic",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "10,16,788/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Samsung Noida Lab",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "7,47,294/yr",
+            "jobTitle": "Software Engineer",
+            "company": "UnitedHealth Group",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "11,01,187/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Paytm",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "6,91,950/yr",
+            "jobTitle": "Software Engineer",
+            "company": "CSC",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "11,10,215/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Snapdeal",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "4,38,810/yr",
+            "jobTitle": "Software Engineer",
+            "company": "NIIT Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "32,000/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Altran Americas",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "11,52,470/yr",
+            "jobTitle": "Software Engineer",
+            "company": "NatWest Group",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Tata Consultancy Services",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Samsung R&D Institute India - Bangalore",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Amdocs",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "One97 Communications",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Tech Mahindra",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "TO THE NEW",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Indus Valley Partners",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Infogain",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Ericsson-Worldwide",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "IBM",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Fiserv",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Ameyo",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Accenture",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Samsung India Electronics",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "HCL Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Chetu",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "ION Trading",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "7,07,444/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Nagarro",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "4,50,000/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Altran Group",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "5,27,070/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Newgen Software",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Info Edge",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Comviva",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Tata Consultancy Services",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "HCL",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Altran Americas",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Nagarro",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Panasonic",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Eastern Software Systems",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Nucleus Software Exports",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Amdocs",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Newgen Software",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Chetu",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Compro Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "R Systems",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Samsung Electronics",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Infosys",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Optimus Information",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "17,46,231/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Zomato",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "10,38,444/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Kronos Incorporated",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "3,68,753/yr",
+            "jobTitle": "Software Engineer",
+            "company": "NIIT",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Bharti Airtel",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Xavient",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "CenturyLink",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "LIBSYS (India)",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Birlasoft",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "TCS",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "PayU",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Accenture",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "LIBSYS (India)",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Kellton Tech",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "FranConnect",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Quovantis Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Wipro",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "MothersonSumi INfotech and Designs",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "MakeMyTrip",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "OYO",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Mindfire Solutions",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "6,75,322/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Optum",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "24,003/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Skilrock Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "7,05,735/yr",
+            "jobTitle": "Software Engineer",
+            "company": "IGT Solutions",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Algoworks Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "ABC",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Cadence Design Systems",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Impetus Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Cvent",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Stryker",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Think Future Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Gemalto",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "MakeMyTrip",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "W. Ray Wallace",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Cavisson Systems",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Nirvana Solutions",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Josh Technology Group",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Ericsson-Worldwide",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Tata Consultancy Services",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Google",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "JKT",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "5,40,058/yr",
+            "jobTitle": "Software Engineer",
+            "company": "NIIT Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "5,75,836/yr",
+            "jobTitle": "Software Engineer",
+            "company": "DXC Technology",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "10,01,193/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Paytm",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Q3 Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Samsung Electronics",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Tata Consultancy Services",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Azcom Technology",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Gemini Solutions",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Tata Consultancy Services",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Capgemini",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Adobe",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Ginger Webs",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "GlobalLogic",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Times Internet",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Yamaha Motor Solutions India",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Comviva",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Samsung Noida Lab",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Wipro",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Yatra Online Pvt Ltd",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Publicis Sapient",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "7,66,398/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Hughes Systique",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "6,46,223/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Dell Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "5,85,429/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Acezd",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Wingify",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "ION Group",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Guavus",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "CSC",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Aon Hewitt",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "HCL Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "NIIT Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "QA InfoTech",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Samsung R&D Institute India - Bangalore",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "SCA Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Sopra Steria",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Xchanging",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "1mg",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Times Internet",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Droom Technology",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "NCR",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Mobiloitte",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "5,34,097/yr",
+            "jobTitle": "Software Engineer",
+            "company": "HARMAN",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "4,24,594/yr",
+            "jobTitle": "Software Engineer",
+            "company": "NTT DATA",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "6,70,011/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Aon",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Cavisson Systems",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Tavant",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Adobe",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Infogain",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "IBM",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "IBM",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Hike",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Conduent",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "TCS",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "TO THE NEW",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Microsoft",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Amazon",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Infosys",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "MediaTek",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Tech Mahindra",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "VVDN Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "InnovationM",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "30,591/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "WebKul",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "5,68,677/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Bureau Veritas",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "8,68,362/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Accolite",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Ebizon Net Info",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "SAP",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "hCentive",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Atrenta",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "ARI Simulation",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Delhivery",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Tata Consultancy Services (North America)",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "SafeNet",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "SRI Delhi",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Ericsson-Worldwide",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Incedo",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Mindfire Solutions",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Infogain",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Thales",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Orange",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "One97 Communications",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "CRMnext",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "36,869/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Nagarro",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "75,393/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Google",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "5,06,079/yr",
+            "jobTitle": "Software Engineer",
+            "company": "RateGain",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "IndiaMART",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Yatra Online Pvt Ltd",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Infoedge Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "NTT DATA",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "IDEMIA",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "HCL",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Shopclues",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Vinculum Solutions",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "OSSCube",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Mobikwik",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Compro Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "SAP",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Interra Systems",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Stratbeans Consulting",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Ciena",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "MothersonSumi INfotech and Designs",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Eastern Software Systems",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "5,77,562/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Innodata",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "37,337/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Kellton Tech",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "9,36,686/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Zopper",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Fiserv",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "ION Trading",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "NatWest Group",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly Intern",
+            "company": "OYO",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Rapidsoft Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "TO THE NEW",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Aristocrat Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "VinSol",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "4th Quarter Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "UnitedHealth Group",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Samsung Noida Lab",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Loginworks",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Samsung India Electronics",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Sopra Steria",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "OYO",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "WebKul",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Anonymous Content",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "5,37,618/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Morpho",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "5,23,265/yr",
+            "jobTitle": "Software Engineer",
+            "company": "GlobalLogic",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "8,21,160/yr",
+            "jobTitle": "Software Engineer",
+            "company": "IHS Markit",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Wipro",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Evalueserve",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Magic EdTech",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "DXC Technology",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Ameyo",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Dell Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "VNL",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "IGATE",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Venera Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "ENuke Software",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Ixigo.com",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Chetu",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "KiwiTech",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly Intern",
+            "company": "Samsung Noida Lab",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Landis+Gyr",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Rivigo",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Pitney Bowes",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "25,677/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "ABC",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "24,175/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Brain Technosys",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "7,88,532/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Josh Technology Group",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Urban Company",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Birlasoft",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Grapecity",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "UnitedHealth Group",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Amazon",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Aithent Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Rapidsoft Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Oracle",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "QSS Technosoft",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Appster",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Samsung R&D Institute India - Bangalore",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Grofers",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Altran Group",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "OodlesTechnologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Sprinklr",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "BlackNGreen",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Newgen",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "8,64,093/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Navyug Infosolutions",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "27,365/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Tata Consultancy Services (North America)",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "8,98,862/yr",
+            "jobTitle": "Software Engineer",
+            "company": "ibibo",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Opera Solutions",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Bhavna",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Genpact",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "MyKaarma",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "TCS",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Power2SME",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Sumo Logic",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "LimeTray",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Publicis Sapient",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "VinSol",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "CSC",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Bharti SoftBank",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Gwynnie Bee",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Samsung Engineering",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Panasonic",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Edfora",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "CE Info Systems",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "23,295/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Vinove Software & Services",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "5,59,066/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Paxcel Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "45,957/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Optimus Information",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "HPC Sphere",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "S&P Global Market Intelligence",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Compro Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Pine Labs",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "SSP Limited",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Mobiloitte",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Intelegencia",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Info Edge",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Bar Code India",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Quovantis Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Mobile Programming",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Amazon",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Plasma",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Nagarro",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Kronos Incorporated",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "FranConnect",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Nirvana Solutions",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "5,24,130/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Daffodil Software",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "6,47,099/yr",
+            "jobTitle": "Software Engineer",
+            "company": "VVDN Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "6,40,402/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Mindfire Solutions",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Mobiloitte",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Craterzone",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "ValueFirst Digital Media",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "DiGiSPICE",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "MS Technology",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Adeptia",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Innovaccer",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Daffodil Software",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "IBM",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Guavus",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "IndiaMART",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Jabong.com",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "ThinkSys",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Sdgc",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "SYSCOM (India)",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "MetaDesign Solutions",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Healthkart",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "37,410/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Xicom Technologies Ltd.",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "4,06,673/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Cyient",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "13,42,513/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Gartner",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "HCL Infosystems",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Cognizant Technology Solutions",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "AKS Software",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Lenskart Solutions",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "SOTI",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "WebKul",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Expedia Group",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Amdocs",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Digital Green",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Mtree Software",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Reppify",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Tower Research Capital LLC",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "itaas",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Samsung India Electronics",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Connexity",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "SapientNitro",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Bravura Solutions",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "4,42,584/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Monster Com India",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "14,43,100/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Super Highway Labs",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "37,790/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "SquareBoat",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Monotype",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "WebKul",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "RenewBuy",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "IBM",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Anonymous Content",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Fonantrix",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Nucleus Software Exports",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Vinculum Solutions",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "JellyFish Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Inventum Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Enbake Consulting",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Sun Life",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Ebix",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "99acre com",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "NovoInvent",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Expedia Group",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Natrix Technology",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "87,282/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Ameyo",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "11,54,764/yr",
+            "jobTitle": "Software Engineer",
+            "company": "GreyOrange",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "3,00,928/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Astrea IT Services",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Nextag",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Fiserv",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "VVDN Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "STMicroelectronics",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "NIIT",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "IBM India",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Roadzen",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "Innotical Solutions",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "MagicPin",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Xicom Technologies Ltd.",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly Intern",
+            "company": "Innovaccer",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer - Intern",
+            "company": "Google",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Tek Travels",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly",
+            "company": "HCL Infosystems",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "Magneti Marelli",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Software Engineer",
+            "company": "GreyOrange",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Software Engineer - Monthly Intern",
+            "company": "Samsung Electronics",
+            "city": "New Delhi (India)"
+        }
+    ]
+]

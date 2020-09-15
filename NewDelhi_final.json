@@ -1,0 +1,962 @@
+{
+        {
+            "meanPay": "13,65,147/yr",
+            "jobTitle": "Project Manager",
+            "company": "HCL Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "16,44,416/yr",
+            "jobTitle": "Project Manager",
+            "company": "IBM",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "16,56,494/yr",
+            "jobTitle": "Project Manager",
+            "company": "Times Internet",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "23,76,757/yr",
+            "jobTitle": "Project Manager",
+            "company": "Snapdeal",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "16,45,569/yr",
+            "jobTitle": "Project Manager",
+            "company": "CSC",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "16,72,578/yr",
+            "jobTitle": "Project Manager",
+            "company": "Tata Consultancy Services",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "23,36,674/yr",
+            "jobTitle": "Project Manager",
+            "company": "Paytm",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "22,07,287/yr",
+            "jobTitle": "Project Manager",
+            "company": "Nagarro",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "13,47,576/yr",
+            "jobTitle": "Project Manager",
+            "company": "Tech Mahindra",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "29,08,004/yr",
+            "jobTitle": "Project Manager",
+            "company": "Accenture",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "18,43,458/yr",
+            "jobTitle": "Project Manager",
+            "company": "BT",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "18,00,067/yr",
+            "jobTitle": "Project Manager",
+            "company": "Wipro",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "17,80,036/yr",
+            "jobTitle": "Project Manager",
+            "company": "IBM India",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "13,99,336/yr",
+            "jobTitle": "Project Manager",
+            "company": "OYO",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "25,17,124/yr",
+            "jobTitle": "Project Manager",
+            "company": "NatWest Group",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "17,00,445/yr",
+            "jobTitle": "Project Manager",
+            "company": "NIIT Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "18,09,845/yr",
+            "jobTitle": "Project Manager",
+            "company": "MakeMyTrip",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "14,22,592/yr",
+            "jobTitle": "Project Manager",
+            "company": "NIIT",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "18,70,114/yr",
+            "jobTitle": "Project Manager",
+            "company": "OYO",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "12,08,668/yr",
+            "jobTitle": "Project Manager",
+            "company": "Evalueserve",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "24,00,258/yr",
+            "jobTitle": "Project Manager",
+            "company": "Bharti Airtel",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "18,77,027/yr",
+            "jobTitle": "Project Manager",
+            "company": "Publicis Sapient",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "18,39,614/yr",
+            "jobTitle": "Project Manager",
+            "company": "Altran Americas",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "IndiaMART",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Project Manager - Monthly",
+            "company": "IBM",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Infosys",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "PolicyBazaar",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "GlobalLogic",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Bharti Airtel",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "MagicBricks",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Fidelity International",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "HCL",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Orange",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Genpact",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Birlasoft",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "KPMG",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Sopra Steria",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "STMicroelectronics",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Nokia",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "NEC Technologies India",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "66,979/mo",
+            "jobTitle": "Project Manager - Monthly",
+            "company": "Tata Consultancy Services",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "18,31,694/yr",
+            "jobTitle": "Project Manager",
+            "company": "Comviva",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "31,11,517/yr",
+            "jobTitle": "Project Manager",
+            "company": "Adobe",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Siemens",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Nucleus Software Exports",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Project Manager - Monthly",
+            "company": "Internet Moguls",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Oxigen",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "NTT DATA",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Toluna",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "SmartAnalyst",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "EXL Service",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "American Express",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Nexaweb",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Newgen Software",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Aptara",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Thomson Digital",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Snapdeal",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "UnitedHealth Group",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Aon Hewitt",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Mercer",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "12,27,529/yr",
+            "jobTitle": "Project Manager",
+            "company": "HCL Infosystems",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "12,87,495/yr",
+            "jobTitle": "Project Manager",
+            "company": "HCL Infosystems",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "14,40,155/yr",
+            "jobTitle": "Project Manager",
+            "company": "CarDekho",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Deloitte",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Info Edge",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Kellton Tech",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Dell Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Hike",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "EY",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Pitney Bowes",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Sun Life",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Affiliated Computer Services",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Adobe",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "R Systems",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Delhivery",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "MetLife",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Project Manager - Monthly",
+            "company": "IOMEDIA",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Sprinklr",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Shopclues",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Ericsson-Worldwide",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "23,73,309/yr",
+            "jobTitle": "Project Manager",
+            "company": "Proptiger",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "9,89,514/yr",
+            "jobTitle": "Project Manager",
+            "company": "CBRE",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "15,96,471/yr",
+            "jobTitle": "Project Manager",
+            "company": "SapientNitro",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Lava International",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "DXC Technology",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Huawei Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "HCL Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Amdocs",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Panasonic",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Project Manager - Monthly",
+            "company": "Nucleus Software Exports",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Internshala",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Compro Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Yatra Online Pvt Ltd",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "10times",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Project Manager - Monthly",
+            "company": "Allan Lloyds",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Rivigo",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Rivigo",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Expedia Group",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Zomato",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "ABC",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "14,32,712/yr",
+            "jobTitle": "Project Manager",
+            "company": "G-Cube",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "99,177/mo",
+            "jobTitle": "Project Manager - Monthly",
+            "company": "BT",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "23,40,548/yr",
+            "jobTitle": "Project Manager",
+            "company": "One97 Communications",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "One97 Communications",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Moglix",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Team Computers",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Maruti Suzuki",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "TravelTriangle",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "MMI Online",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Absolutdata",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Project Manager - Monthly",
+            "company": "Aptara",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Oracle",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Axtria",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Vodafone",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Vodafone",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "The 3C Company",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "FabHotels",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Indian Oil",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "HT Media",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Knight Frank",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "28,12,363/yr",
+            "jobTitle": "Project Manager",
+            "company": "Samsung Electronics",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "13,06,238/yr",
+            "jobTitle": "Project Manager",
+            "company": "Clix Capital",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "15,46,179/yr",
+            "jobTitle": "Project Manager",
+            "company": "Honeywell",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "National Thermal Power",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Mettl",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Project Manager - Monthly",
+            "company": "Xicom Technologies Ltd.",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "VE Commercial Vehicles",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "U2opia Mobile",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Fliplearn Education",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Philips",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Zopper",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Project Manager - Monthly",
+            "company": "Ajani Infotech",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Tata Teleservices",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Crescerance",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Xebia",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Ameyo",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Project Manager - Monthly",
+            "company": "HCL Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Ameyo",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Denave",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Project Manager - Monthly",
+            "company": "Panasonic",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "0/mo",
+            "jobTitle": "Project Manager - Monthly",
+            "company": "Development Alternatives (India)",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "0/yr",
+            "jobTitle": "Project Manager",
+            "company": "SDG Group",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "0/mo",
+            "jobTitle": "Project Manager - Monthly",
+            "company": "Kellton Tech",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Octro",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "SYSTRA",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Accenture",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "SirionLabs",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "1mg",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Project Manager - Monthly",
+            "company": "Genpact",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "ITC",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Publicis Sapient",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Gartner",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Monster Com India",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Dimagi",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/mo",
+            "jobTitle": "Project Manager - Monthly",
+            "company": "Thomson Digital",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Times Business Solutions",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Spinny",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Agilent Technologies",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Hewlett Packard Enterprise | HPE",
+            "city": "New Delhi (India)"
+        },
+        {
+            "meanPay": "xx,xxx/yr",
+            "jobTitle": "Project Manager",
+            "company": "Polaris FT",
+            "city": "New Delhi (India)"
+        }
+    }
