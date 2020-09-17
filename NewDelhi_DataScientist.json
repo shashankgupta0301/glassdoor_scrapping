@@ -1,1654 +1,1652 @@
 [
-    [
-        {
-            "meanPay": "12,89,970/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Delhivery",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "12,92,446/yr",
-            "jobTitle": "Data Scientist",
-            "company": "UnitedHealth Group",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "9,74,464/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Cognizant Technology Solutions",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "6,67,923/yr",
-            "jobTitle": "Data Scientist",
-            "company": "IBM",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "7,54,305/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Valiance Solutions",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "20,715/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Analytics Vidhya",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "11,58,745/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Innovaccer",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "12,257/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Vidooly Media Tech",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "5,73,224/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Tata Consultancy Services",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "8,63,312/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Accenture",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "10,86,133/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Ericsson-Worldwide",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "9,31,647/yr",
-            "jobTitle": "Data Scientist",
-            "company": "ZS Associates",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "15,558/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Yatra Online Pvt Ltd",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "10,63,406/yr",
-            "jobTitle": "Data Scientist",
-            "company": "OYO",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "9,30,203/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Nagarro",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "33,48,814/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Times Internet",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "14,25,607/yr",
-            "jobTitle": "Data Scientist",
-            "company": "CARS24.com",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "9,81,127/yr",
-            "jobTitle": "Data Scientist",
-            "company": "LiquidHub",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "13,65,147/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Guavus",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "16,746/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Atlan",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "7,66,206/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Exzeo",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "15,368/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Vidooly Media Tech",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Tech Mahindra",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Publicis Sapient",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "WNS",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "OYO",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "dunnhumby",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Naukri.com",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "CarDekho",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "1mg",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Loginworks",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Valiance Solutions",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Cube26",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Algo8.ai",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "FarmGuide",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Humonics",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Profeza",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Tata Consultancy Services",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Tata Consultancy Services",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Infosys",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Capgemini",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "IBM",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/yr",
-            "jobTitle": "Data Scientist",
-            "company": "HCL Technologies",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Amazon",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Deloitte",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Deloitte",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Deloitte",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "EY",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Genpact",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "ICICI Bank",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Microsoft",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Ericsson-Worldwide",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Larsen & Toubro",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Nokia",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Nokia",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "EXL Service",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "EXL Service",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Concentrix",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Concentrix",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "WNS",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Evalueserve",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Deutsche Bank",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Cyient",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Paytm",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "S&P Global Market Intelligence",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Nielsen",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Bharat Heavy Electricals",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Samsung India Electronics",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Delhivery",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/hr",
-            "jobTitle": "Data Scientist - Hourly",
-            "company": "Freelancer",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "PolicyBazaar",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Mastercard",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Sprinklr",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "NEC Technologies India",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Gartner",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Moody's Analytics",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Grofers",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "R Systems",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Vodafone Idea",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Absolutdata",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Aptara",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Pitney Bowes",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/yr",
-            "jobTitle": "Data Scientist",
-            "company": "HT Media",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "dunnhumby",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Innovaccer",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Incedo",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Opera Solutions",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist - Contractor",
-            "company": "Iris Software",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "RateGain",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "RateGain",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "GroupM",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Michelin",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Shopclues",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Virtual Employee",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "ION Trading",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Wingify",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Innoplexus",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Q3 Technologies",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Monster Com India",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "1mg",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Tata Power DDL",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Boston Analytics",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/yr",
-            "jobTitle": "Data Scientist",
-            "company": "LIBSYS (India)",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "FreeCharge",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist - Intern",
-            "company": "Internshala",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Ecom Express",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Moglix",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "AnywhereWorks",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Usha International Limited",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Dainik Bhaskar",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "DB Corp",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "ValueFirst Digital Media",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Upwork",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Shine",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "GETIT Infoservices PVT LTD",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Icreon Communications",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Orange Business Services",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Valiance Solutions",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Elucidata (MA)",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "edwisor",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Elucidata (MA)",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Spice Money",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Roposo",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Octro",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "RedCarpet",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "BluePi",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "BlueStacks",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "TransOrg Analytics",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Innefu Labs Pvt",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "DIMTS",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Inshorts",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Vidooly Media Tech",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Decimal Technologies",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Dr. B.V. Raju Institute of Technology",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Webhelp",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "HELLO",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Algoscale",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Milkbasket",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Milkbasket",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "BANK",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Algoscale",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Quadratic Insights",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Shipsy",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "WyzMindz",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist - Intern",
-            "company": "Analytics Vidhya",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Bobble Keyboard",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Tokopedia",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "RailYatri",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "HDFC ERGO Health Insurance",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Translational Health Science and Technology Institute",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "StashFin",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Global Tech Promoters",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Algo8.ai",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Algo8.ai",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Climate Connect",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Shrofile",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Sagacito",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Kvantum",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Tatras Data",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "ZiffyHomes",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Augment Systems",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Liberin Technologies",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/yr",
-            "jobTitle": "Data Scientist",
-            "company": "ParallelDots",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "EzeiaTech",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Verdis",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Blackcoffer",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Dentalkart",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Motion Infotech",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Healthcare at Home",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Monsoon (India)",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Jason's Deli",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "AnalytixLabs",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "MyCityWay",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Innowatts",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Dipper",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "ISC IT Services",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "myCOL",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Xalt Analytics",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Icreon",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Major League Hacking",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Cronycle",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "myCOL",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Baby Brand Saffron",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Valiance Partners",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Powerup Technology Inc",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "M\u00e2-Loango Regional Museum?",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Aqusag Technologies",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Ron Bhalla",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "H2O.ai",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Excelerate AI",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "loan2grow",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Indimedics Healthcare",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "BTM Financial",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Higroove Systems",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "NP Global",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Kritrim",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "TopCareerOptions",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Mahatma Gandhi Institute of Education for Peace and Sustainable Development",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "PIMCO",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "SiCureMi",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Data Folkz",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/mo",
-            "jobTitle": "Data Scientist - Monthly Intern",
-            "company": "Cyberboxer",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/mo",
-            "jobTitle": "Data Scientist - Monthly",
-            "company": "Info Softdata Services",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist",
-            "company": "Exl-Technologies",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Applied Data Scientist",
-            "company": "dunnhumby",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Data Scientist",
-            "company": "dunnhumby",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Applied Data Scientist",
-            "company": "dunnhumby",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Lead Data Scientist",
-            "company": "dunnhumby",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Associate Data Scientist",
-            "company": "UnitedHealth Group",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Science Analyst",
-            "company": "Accenture",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Data Scientist",
-            "company": "Optum",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Data Scientist",
-            "company": "Guavus",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Associate Data Scientist",
-            "company": "Cognizant Technology Solutions",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Science Engineer - Monthly",
-            "company": "Maroon Insights",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Science Analyst",
-            "company": "Xceedance",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Data Science Engineer",
-            "company": "dunnhumby",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Science Associate Consultant",
-            "company": "ZS Associates",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Data Scientist",
-            "company": "Cognizant Technology Solutions",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Data Scientist",
-            "company": "IBM",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Data Scientist",
-            "company": "EY",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/yr",
-            "jobTitle": "Senior Data Scientist",
-            "company": "Mu Sigma",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/yr",
-            "jobTitle": "Senior Data Scientist",
-            "company": "UnitedHealth Group",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/yr",
-            "jobTitle": "Senior Data Scientist",
-            "company": "Delhivery",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Data Scientist - Contractor",
-            "company": "Orange",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Data Scientist",
-            "company": "Chegg",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Data Scientist",
-            "company": "Mckinsey Knowledge Center",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Data Scientist",
-            "company": "Naukri.com",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Data Scientist",
-            "company": "Lenovo",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Data Scientist",
-            "company": "Tokopedia",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Data Scientist",
-            "company": "Positive Integers",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Data Scientist",
-            "company": "Kvantum",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Data Scientist",
-            "company": "Cemtics",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Data Scientist",
-            "company": "ModFx Labs",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Data Scientist",
-            "company": "KindKonnect Technologies",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Analyst/Data Scientist",
-            "company": "UnitedHealth Group",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Junior Data Scientist",
-            "company": "Analytics Vidhya",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Junior Data Scientist",
-            "company": "Algo8.ai",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Junior Data Scientist",
-            "company": "Tatras Data",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Junior Data Scientist - Monthly",
-            "company": "Online soft care",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Associate Data Scientist",
-            "company": "Wipro",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/yr",
-            "jobTitle": "Associate Data Scientist",
-            "company": "Publicis Sapient",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/yr",
-            "jobTitle": "Associate Data Scientist",
-            "company": "Optum",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/yr",
-            "jobTitle": "Associate Data Scientist",
-            "company": "Delhivery",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Associate Data Scientist",
-            "company": "Tatras Data",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Associate Data Scientist",
-            "company": "FIA Technology Services",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Associate Data Scientist",
-            "company": "Shubhlabh techmedia",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Lead Data Scientist",
-            "company": "HARMAN",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Science Engineer - Monthly",
-            "company": "American Express",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Science Engineer - Monthly Intern",
-            "company": "Smart Energy Water",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Science Engineer",
-            "company": "Kayako",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Science Engineer - Monthly",
-            "company": "DataToBiz",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Science Analyst",
-            "company": "BT",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Science Analyst",
-            "company": "Mckinsey Knowledge Center",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Science Analyst",
-            "company": "IBM GBS",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Science Manager",
-            "company": "ZS Associates",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Science Manager",
-            "company": "dunnhumby",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Science Consultant",
-            "company": "Accenture",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Science Consultant",
-            "company": "ZS Associates",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Science Consultant",
-            "company": "Droom Technology",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Science Consultant",
-            "company": "Paper Products, Etc.",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/yr",
-            "jobTitle": "Chief Data Scientist",
-            "company": "Maroon Insights",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/yr",
-            "jobTitle": "Data Science Associate",
-            "company": "ZS Associates",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "0/yr",
-            "jobTitle": "Data Science Associate",
-            "company": "Policy & Development Advisory Group",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Trainee Data Scientist - Monthly",
-            "company": "Appy Pie",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Trainee Data Scientist",
-            "company": "Ebsavvy",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Data Scientist/Software Engineer - Monthly",
-            "company": "IBM",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist/Software Engineer",
-            "company": "Ericsson-Worldwide",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Director, Data Scientist",
-            "company": "ModFx Labs",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Senior Data Science Analyst",
-            "company": "Grail Insights",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist III",
-            "company": "OYO",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Scientist Consultant",
-            "company": "ThoughtWorks",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Manager - Data Science",
-            "company": "Optum",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Manager - Data Science",
-            "company": "ModFx Labs",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/mo",
-            "jobTitle": "Senior Applied Data Scientist - Monthly",
-            "company": "dunnhumby",
-            "city": "New Delhi (India)"
-        },
-        {
-            "meanPay": "xx,xxx/yr",
-            "jobTitle": "Data Science Lead",
-            "company": "Times Internet",
-            "city": "New Delhi (India)"
-        }
-    ]
+    {
+        "meanPay": "12,89,970/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Delhivery",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "12,92,446/yr",
+        "jobTitle": "Data Scientist",
+        "company": "UnitedHealth Group",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "9,74,464/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Cognizant Technology Solutions",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "6,67,923/yr",
+        "jobTitle": "Data Scientist",
+        "company": "IBM",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "7,54,305/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Valiance Solutions",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "20,715/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Analytics Vidhya",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "11,58,745/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Innovaccer",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "12,257/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Vidooly Media Tech",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "5,73,224/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Tata Consultancy Services",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "8,63,312/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Accenture",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "10,86,133/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Ericsson-Worldwide",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "9,31,647/yr",
+        "jobTitle": "Data Scientist",
+        "company": "ZS Associates",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "15,558/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Yatra Online Pvt Ltd",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "10,63,406/yr",
+        "jobTitle": "Data Scientist",
+        "company": "OYO",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "9,30,203/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Nagarro",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "33,48,814/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Times Internet",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "14,25,607/yr",
+        "jobTitle": "Data Scientist",
+        "company": "CARS24.com",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "9,81,127/yr",
+        "jobTitle": "Data Scientist",
+        "company": "LiquidHub",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "13,65,147/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Guavus",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "16,746/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Atlan",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "7,66,206/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Exzeo",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "15,368/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Vidooly Media Tech",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Tech Mahindra",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Publicis Sapient",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "WNS",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "OYO",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "dunnhumby",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Naukri.com",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "CarDekho",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "1mg",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Loginworks",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Valiance Solutions",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Cube26",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Algo8.ai",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "FarmGuide",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Humonics",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Profeza",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Tata Consultancy Services",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Tata Consultancy Services",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Infosys",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Capgemini",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "IBM",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/yr",
+        "jobTitle": "Data Scientist",
+        "company": "HCL Technologies",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Amazon",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Deloitte",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Deloitte",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Deloitte",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "EY",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Genpact",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "ICICI Bank",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Microsoft",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Ericsson-Worldwide",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Larsen & Toubro",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Nokia",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Nokia",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "EXL Service",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "EXL Service",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Concentrix",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Concentrix",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "WNS",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Evalueserve",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Deutsche Bank",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Cyient",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Paytm",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "S&P Global Market Intelligence",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Nielsen",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Bharat Heavy Electricals",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Samsung India Electronics",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Delhivery",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/hr",
+        "jobTitle": "Data Scientist - Hourly",
+        "company": "Freelancer",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "PolicyBazaar",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Mastercard",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Sprinklr",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "NEC Technologies India",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Gartner",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Moody's Analytics",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Grofers",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "R Systems",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Vodafone Idea",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Absolutdata",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Aptara",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Pitney Bowes",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/yr",
+        "jobTitle": "Data Scientist",
+        "company": "HT Media",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "dunnhumby",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Innovaccer",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Incedo",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Opera Solutions",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist - Contractor",
+        "company": "Iris Software",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "RateGain",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "RateGain",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "GroupM",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Michelin",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Shopclues",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Virtual Employee",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "ION Trading",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Wingify",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Innoplexus",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Q3 Technologies",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Monster Com India",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "1mg",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Tata Power DDL",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Boston Analytics",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/yr",
+        "jobTitle": "Data Scientist",
+        "company": "LIBSYS (India)",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "FreeCharge",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist - Intern",
+        "company": "Internshala",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Ecom Express",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Moglix",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "AnywhereWorks",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Usha International Limited",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Dainik Bhaskar",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "DB Corp",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "ValueFirst Digital Media",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Upwork",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Shine",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "GETIT Infoservices PVT LTD",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Icreon Communications",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Orange Business Services",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Valiance Solutions",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Elucidata (MA)",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "edwisor",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Elucidata (MA)",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Spice Money",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Roposo",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Octro",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "RedCarpet",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "BluePi",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "BlueStacks",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "TransOrg Analytics",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Innefu Labs Pvt",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "DIMTS",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Inshorts",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Vidooly Media Tech",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Decimal Technologies",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Dr. B.V. Raju Institute of Technology",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Webhelp",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "HELLO",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Algoscale",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Milkbasket",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Milkbasket",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "BANK",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Algoscale",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Quadratic Insights",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Shipsy",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "WyzMindz",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist - Intern",
+        "company": "Analytics Vidhya",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Bobble Keyboard",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Tokopedia",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "RailYatri",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "HDFC ERGO Health Insurance",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Translational Health Science and Technology Institute",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "StashFin",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Global Tech Promoters",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Algo8.ai",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Algo8.ai",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Climate Connect",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Shrofile",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Sagacito",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Kvantum",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Tatras Data",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "ZiffyHomes",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Augment Systems",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Liberin Technologies",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/yr",
+        "jobTitle": "Data Scientist",
+        "company": "ParallelDots",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "EzeiaTech",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Verdis",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Blackcoffer",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Dentalkart",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Motion Infotech",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Healthcare at Home",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Monsoon (India)",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Jason's Deli",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "AnalytixLabs",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "MyCityWay",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Innowatts",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Dipper",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "ISC IT Services",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "myCOL",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Xalt Analytics",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Icreon",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Major League Hacking",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Cronycle",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "myCOL",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Baby Brand Saffron",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Valiance Partners",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Powerup Technology Inc",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "M\u00e2-Loango Regional Museum?",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Aqusag Technologies",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Ron Bhalla",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "H2O.ai",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Excelerate AI",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "loan2grow",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Indimedics Healthcare",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "BTM Financial",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Higroove Systems",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "NP Global",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Kritrim",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "TopCareerOptions",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Mahatma Gandhi Institute of Education for Peace and Sustainable Development",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "PIMCO",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "SiCureMi",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Data Folkz",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/mo",
+        "jobTitle": "Data Scientist - Monthly Intern",
+        "company": "Cyberboxer",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/mo",
+        "jobTitle": "Data Scientist - Monthly",
+        "company": "Info Softdata Services",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist",
+        "company": "Exl-Technologies",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Applied Data Scientist",
+        "company": "dunnhumby",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Data Scientist",
+        "company": "dunnhumby",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Applied Data Scientist",
+        "company": "dunnhumby",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Lead Data Scientist",
+        "company": "dunnhumby",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Associate Data Scientist",
+        "company": "UnitedHealth Group",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Science Analyst",
+        "company": "Accenture",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Optum",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Guavus",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Associate Data Scientist",
+        "company": "Cognizant Technology Solutions",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Science Engineer - Monthly",
+        "company": "Maroon Insights",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Science Analyst",
+        "company": "Xceedance",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Data Science Engineer",
+        "company": "dunnhumby",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Science Associate Consultant",
+        "company": "ZS Associates",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Cognizant Technology Solutions",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Data Scientist",
+        "company": "EY",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/yr",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Mu Sigma",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/yr",
+        "jobTitle": "Senior Data Scientist",
+        "company": "UnitedHealth Group",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/yr",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Delhivery",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Data Scientist - Contractor",
+        "company": "Orange",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Chegg",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Mckinsey Knowledge Center",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Naukri.com",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Lenovo",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Tokopedia",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Positive Integers",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Kvantum",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Cemtics",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Data Scientist",
+        "company": "ModFx Labs",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Data Scientist",
+        "company": "KindKonnect Technologies",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Analyst/Data Scientist",
+        "company": "UnitedHealth Group",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Junior Data Scientist",
+        "company": "Analytics Vidhya",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Junior Data Scientist",
+        "company": "Algo8.ai",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Junior Data Scientist",
+        "company": "Tatras Data",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Junior Data Scientist - Monthly",
+        "company": "Online soft care",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Associate Data Scientist",
+        "company": "Wipro",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/yr",
+        "jobTitle": "Associate Data Scientist",
+        "company": "Publicis Sapient",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/yr",
+        "jobTitle": "Associate Data Scientist",
+        "company": "Optum",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/yr",
+        "jobTitle": "Associate Data Scientist",
+        "company": "Delhivery",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Associate Data Scientist",
+        "company": "Tatras Data",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Associate Data Scientist",
+        "company": "FIA Technology Services",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Associate Data Scientist",
+        "company": "Shubhlabh techmedia",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Lead Data Scientist",
+        "company": "HARMAN",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Science Engineer - Monthly",
+        "company": "American Express",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Science Engineer - Monthly Intern",
+        "company": "Smart Energy Water",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Science Engineer",
+        "company": "Kayako",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Science Engineer - Monthly",
+        "company": "DataToBiz",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Science Analyst",
+        "company": "BT",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Science Analyst",
+        "company": "Mckinsey Knowledge Center",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Science Analyst",
+        "company": "IBM GBS",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Science Manager",
+        "company": "ZS Associates",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Science Manager",
+        "company": "dunnhumby",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Science Consultant",
+        "company": "Accenture",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Science Consultant",
+        "company": "ZS Associates",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Science Consultant",
+        "company": "Droom Technology",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Science Consultant",
+        "company": "Paper Products, Etc.",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/yr",
+        "jobTitle": "Chief Data Scientist",
+        "company": "Maroon Insights",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/yr",
+        "jobTitle": "Data Science Associate",
+        "company": "ZS Associates",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "0/yr",
+        "jobTitle": "Data Science Associate",
+        "company": "Policy & Development Advisory Group",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Trainee Data Scientist - Monthly",
+        "company": "Appy Pie",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Trainee Data Scientist",
+        "company": "Ebsavvy",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Data Scientist/Software Engineer - Monthly",
+        "company": "IBM",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist/Software Engineer",
+        "company": "Ericsson-Worldwide",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Director, Data Scientist",
+        "company": "ModFx Labs",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Senior Data Science Analyst",
+        "company": "Grail Insights",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist III",
+        "company": "OYO",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Scientist Consultant",
+        "company": "ThoughtWorks",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Manager - Data Science",
+        "company": "Optum",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Manager - Data Science",
+        "company": "ModFx Labs",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/mo",
+        "jobTitle": "Senior Applied Data Scientist - Monthly",
+        "company": "dunnhumby",
+        "city": "New Delhi (India)"
+    },
+    {
+        "meanPay": "xx,xxx/yr",
+        "jobTitle": "Data Science Lead",
+        "company": "Times Internet",
+        "city": "New Delhi (India)"
+    }
 ]

@@ -187,18 +187,20 @@ def create_list_from_json():
 
 def create_list_from_json_new():
     import pdb; pdb.set_trace();
-    with open(r'C:\Users\user\Desktop\scrapping\NewDelhi_final.json') as f:
+    with open(r'C:\Users\user\Desktop\scrapping\NewDelhi_DataScientist.json') as f:
         data = json.load(f)
 
-    pd.DataFrame.f
-    pd.DataFrame.from_dict(data, orient='index',columns=['meanPay', 'jobTitle', 'company', 'city'], dtype=float)
+    dfItem = pd.DataFrame(data)
+    dfItem.to_csv(r'NewDelhi_DS.csv')
+    #pd.DataFrame.f
+    #pd.DataFrame.from_dict(data, orient='index',columns=['meanPay', 'jobTitle', 'company', 'city'], dtype=float)
 
-    dfItem = pd.DataFrame.from_records(data)
-    dfItem = pd.DataFrame.from_records(data, columns=['meanPay', 'jobTitle', 'company', 'city'])
-    export_csv = dfItem.to_csv(r'C:\\Users\\user\\Desktop\\scrapping\\NewDelhi.csv', index=None, header=True)
+    #dfItem = pd.DataFrame.from_records(data)
+    #dfItem = pd.DataFrame.from_records(data, columns=['meanPay', 'jobTitle', 'company', 'city'])
+    #export_csv = dfItem.to_csv(r'C:\\Users\\user\\Desktop\\scrapping\\NewDelhi.csv', index=None, header=True)
 
-    df1 = pd.DataFrame(data, columns=['meanPay', 'jobTitle', 'company', 'city'], dtype=float)
-    pd.DataFrame(data,index=False,columns=['meanPay', 'jobTitle', 'company', 'city'], dtype=float)
+    #df1 = pd.DataFrame(data, columns=['meanPay', 'jobTitle', 'company', 'city'], dtype=float)
+    #pd.DataFrame(data,index=False,columns=['meanPay', 'jobTitle', 'company', 'city'], dtype=float)
 
 
 
